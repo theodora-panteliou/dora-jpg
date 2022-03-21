@@ -27,6 +27,10 @@ I am Dora and I'm currently studying Computer Science at the Department of Infor
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+<a href="https://github.com/dora-jpg">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dora-jpg&layout=compact&theme=dracula" />
+</a>
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dora-jpg.dora-jpg)
 <!--
 **dora-jpg/dora-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
