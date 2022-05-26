@@ -27,6 +27,8 @@ I am Dora and I'm currently studying Computer Science at the Department of Infor
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dora-jpg&layout=compact&theme=dracula)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dora-jpg.dora-jpg)
 ![Visitor Badge](https://badges.pufler.dev/visits/dora-jpg/dora-jpg?color=black&logo=github)
 <!--
