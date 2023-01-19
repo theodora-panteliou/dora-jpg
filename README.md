@@ -30,7 +30,6 @@ I am Dora and I'm currently studying Computer Science at the Department of Infor
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dora-jpg&layout=compact&theme=dracula)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dora-jpg.dora-jpg)
-![Visitor Badge](https://badges.pufler.dev/visits/dora-jpg/dora-jpg?color=black&logo=github)
 <!--
 **dora-jpg/dora-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
